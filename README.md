@@ -134,7 +134,7 @@ github "Exyte/PopupView"
 
 ## Requirements
 
-* iOS 13+
+* iOS 14+
 * Xcode 11+ 
 
 ## Our other open source SwiftUI libraries
